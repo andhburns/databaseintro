@@ -18,20 +18,10 @@ Make sure it ordered by the largest order by dollar first in the results.
 
 
 
-
-
-
-
-
-
-
-
 ---------------------------------------------
 
 Step 2:
 Take the above query and only show orders from 1996
-
-
 
 
 
@@ -47,19 +37,10 @@ ExtendedPrice (total by customer)
 
 
 
-
 ---------------------------------------------
 
 Step 4:
 Create a view of step 1 called salesByCustomer
 Create a view of step 3 called salesSummaryByCustomer
 
-
-
-
-
 ---------------------------------------------
-
-
-
-
