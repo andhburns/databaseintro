@@ -1,0 +1,92 @@
+Wellington Importadora	WELLI
+Ernst Handel	ERNSH
+Simons bistro	SIMOB
+Océano Atlántico Ltda.	OCEAN
+Seven Seas Imports	SEVES
+Morgenstern Gesundkost	MORGK
+Galería del gastrónomo	GALED
+GROSELLA-Restaurante	GROSR
+Lehmanns Marktstand	LEHMS
+Antonio Moreno Taquería	ANTON
+Romero y tomillo	ROMEY
+Trail's Head Gourmet Provisioners	TRAIH
+Old World Delicatessen	OLDWO
+Ottilies Käseladen	OTTIK
+Hungry Owl All-Night Grocers	HUNGO
+Suprêmes délices	SUPRD
+Frankenversand	FRANK
+Toms Spezialitäten	TOMSP
+Chop-suey Chinese	CHOPS
+Richter Supermarkt	RICSU
+Laughing Bacchus Wine Cellars	LAUGB
+QUICK-Stop	QUICK
+Ana Trujillo Emparedados y helados	ANATR
+Save-a-lot Markets	SAVEA
+Bottom-Dollar Markets	BOTTM
+Reggiani Caseifici	REGGC
+Du monde entier	DUMON
+Bon app'	BONAP
+Consolidated Holdings	CONSH
+LINO-Delicateses	LINOD
+HILARION-Abastos	HILAA
+Princesa Isabel Vinhos	PRINI
+Drachenblut Delikatessen	DRACD
+Folk och fä HB	FOLKO
+Centro comercial Moctezuma	CENTC
+LILA-Supermercado	LILAS
+Wilman Kala	WILMK
+Queen Cozinha	QUEEN
+Piccolo und mehr	PICCO
+Pericles Comidas clásicas	PERIC
+France restauration	FRANR
+Paris spécialités	PARIS
+Rancho grande	RANCH
+The Cracker Box	THECR
+Franchi S.p.A.	FRANS
+Great Lakes Food Market	GREAL
+Königlich Essen	KOENE
+Mère Paillarde	MEREP
+Hanari Carnes	HANAR
+La maison d'Asie	LAMAI
+Wartian Herkku	WARTH
+Tradição Hipermercados	TRADH
+Magazzini Alimentari Riuniti	MAGAA
+B's Beverages	BSBEV
+Around the Horn	AROUT
+Vaffeljernet	VAFFE
+Bólido Comidas preparadas	BOLID
+Victuailles en stock	VICTE
+Comércio Mineiro	COMMI
+Maison Dewey	MAISD
+Familia Arquibaldo	FAMIA
+La corne d'abondance	LACOR
+Blauer See Delikatessen	BLAUS
+Tortuga Restaurante	TORTU
+DOUGS GROCERIES	DOUGO
+Cactus Comidas para llevar	CACTU
+Folies gourmandes	FOLIG
+Rattlesnake Canyon Grocery	RATTC
+Godos Cocina Típica	GODOS
+Let's Stop N Shop	LETSS
+Que Delícia	QUEDE
+Santé Gourmet	SANTG
+Alfreds Futterkiste	ALFKI
+Hungry Coyote Import Store	HUNGC
+Spécialités du monde	SPECD
+Vins et alcools Chevalier	VINET
+Wolski  Zajazd	WOLZA
+White Clover Markets	WHITC
+Berglunds snabbköp	BERGS
+North/South	NORTS
+Lonesome Pine Restaurant	LONEP
+Furia Bacalhau e Frutos do Mar	FURIB
+Lazy K Kountry Store	LAZYK
+Split Rail Beer & Ale	SPLIR
+Eastern Connection	EASTC
+Die Wandernde Kuh	WANDK
+Ricardo Adocicados	RICAR
+Island Trading	ISLAT
+Blondesddsl père et fils	BLONP
+FISSA Fabrica Inter. Salchichas S.A.	FISSA
+Gourmet Lanchonetes	GOURL
+The Big Cheese	THEBI
